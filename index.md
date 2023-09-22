@@ -10,3 +10,7 @@
 var h="Hello word";
 print(h)
 ```
+
+- [x] Padakkam undakki
+- [ ] thee koluthi
+- [ ] padakkam potti
